@@ -6,7 +6,9 @@
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18-green)](https://nodejs.org)  
 -> Volle HomeKit-Unterstützung, inklusive Movie-Switches, Gruppen-Sync, Default-Movie bei "Ein" und/oder überschreibbar pro Gerät, ...
 
-
+*** Plugin ist aktuell nicht veröffentlicht ***
+  
+  
 ![Alt-Text](images/preview1.jpg) ![Alt-Text](images/preview2.jpg) ![Alt-Text](images/preview3.jpg)
 ![Alt-Text](images/preview4.jpg) ![Alt-Text](images/preview5.jpg)
 
