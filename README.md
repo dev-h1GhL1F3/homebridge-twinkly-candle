@@ -2,7 +2,7 @@
 
 **Homebridge v2 Plugin für Twinkly Lichterketten** – optimiert für Candles (TWKC200RGB). Volle HomeKit-Unterstützung, inklusive Movie-Switches usw...
 
-![Alt-Text](images/preview1.jpg)![Alt-Text](images/preview2.jpg)![Alt-Text](images/preview3.jpg)
+![Alt-Text](images/preview1.jpg) ![Alt-Text](images/preview2.jpg) ![Alt-Text](images/preview3.jpg)
 ![Alt-Text](images/preview4.jpg) ![Alt-Text](images/preview5.jpg)
 
 ## Features
